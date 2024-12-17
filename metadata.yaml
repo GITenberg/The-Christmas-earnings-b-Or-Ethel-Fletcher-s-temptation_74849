@@ -1,0 +1,33 @@
+_repo: The-Christmas-earnings-b-Or-Ethel-Fletcher-s-temptation_74849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2024-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74849'
+language: en
+pgterms:marc905: 20241115143855guernsey
+pgterms:marc906: '1858'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bGeneral Protestant Episcopal S. S. Union and Church
+  Book Society, $c1858.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Christmas earnings : $b Or, Ethel Fletcher''s temptation'
+url: http://www.gutenberg.org/ebooks/74849
